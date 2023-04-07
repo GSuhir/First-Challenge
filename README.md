@@ -20,4 +20,12 @@ appearance has been changed.
 This layout is designed for desktop viewing but can be adjusted for smaller 
 screens if needed.
 
+## Screenshot
+
+![Alt text](Assets/_C__Users_gsuhi_bootcamp_First-Challenge_index.html.png)
+
+## GitHub Link
+
+https://github.com/GSuhir/First-Challenge.git
+
 
